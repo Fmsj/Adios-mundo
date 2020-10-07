@@ -12,5 +12,7 @@ package quintoSemestre;
 public class xd {
     public static void main(String[] args) {
         System.out.println("Cualquier cosa");
+        System.out.println("Cualquier cosa 2");
+        
     }
 }
